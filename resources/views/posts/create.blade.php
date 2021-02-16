@@ -23,7 +23,7 @@
                             </div>
                             <div class="form-group">
                                 <label>Image</label>
-                                <input type="file" name="title">
+                                <input type="file" name="file">
                             </div>
                             <div class="form-group">
                                 <label>Contenido *</label>
